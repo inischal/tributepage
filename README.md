@@ -4,4 +4,4 @@
 )
 ![_C__Users_dell_Desktop_tribute%20page_index html](https://user-images.githubusercontent.com/26018702/145821361-3723805f-0a31-4f2e-94cd-617469933c11.png)
 
-![click here](https://tributepageprithvi.netlify.app/)
+[click here](https://tributepageprithvi.netlify.app/)
